@@ -4,7 +4,11 @@ Welcome to SICP Club. You can get the [Wizard Book Here](http://mitpress.mit.edu
 
 ## Goals
 
+The goal of SICP club is to peer pressure everyone into reading SICP (aka the Wizard Book). From personal experience, this book has informed more of my day-to-day work as a software engineer than any other class or book.
 
+It is aimed at anyone from new or wannabe programmers, experienced OOP developers, to expert level engineers wanting a refresher.
+
+Each meeting will be seminar-style with no pre-ordained leaders. I'll write up outlines and solutions, we will collaborate on our shared learning through discussion of the week's material.
 
 ## Schedule
 
