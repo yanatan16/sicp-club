@@ -18,12 +18,12 @@ Outlines will be provided which overview what we're going to discuss the followi
 
 The plan is to cover one chapter a week:
 
-| Week | Meeting | Material | Outline |
-|:----:|:-------:|:--------:|:-------:|
-| 1 | Feb 21 | Ch. 1 | [Outline](https://github.com/yanatan16/sicp-club/blob/master/ch1/outline.md) |
-| 2 | Feb 28 | Ch. 2| |
-| 3 | Mar 7 | Ch. 3| |
-| 4 | Mar 14 | Ch. 4| |
-| 5 | Mar 21 | Ch. 5| |
-| 6 | Mar 28 | Overflow | |
+| Week | Meeting | Material | Outline | Solutions |
+|:----:|:-------:|:--------:|:-------:|:---------:|
+| 1 | Feb 21 | Ch. 1 | [Outline](https://github.com/yanatan16/sicp-club/blob/master/ch1/outline.md) | |
+| 2 | Feb 28 | Ch. 2 | | |
+| 3 | Mar 7 | Ch. 3 | | |
+| 4 | Mar 14 | Ch. 4 | | |
+| 5 | Mar 21 | Ch. 5 | | |
+| 6 | Mar 28 | Overflow | | |
 
