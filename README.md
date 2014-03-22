@@ -23,6 +23,6 @@ The plan is to cover one chapter a week:
 | 1 | Feb 4 | Ch. 1 | [Outline](https://github.com/yanatan16/sicp-club/blob/master/ch1/outline.md) | [Solutions](https://github.com/yanatan16/sicp-club/tree/master/ch1) |
 | 2 | Mar 7 | Ch. 2 | [Outline](https://github.com/yanatan16/sicp-club/blob/master/ch2/outline.md) | [Solutions](https://github.com/yanatan16/sicp-club/tree/master/ch2) |
 | 3 | Mar 17 | Ch. 3 | [Outline](https://github.com/yanatan16/sicp-club/blob/master/ch3/outline.md) | [Solutions](https://github.com/yanatan16/sicp-club/tree/master/ch3) |
-| 4 | Mar 24 | Ch. 4 | | |
+| 4 | Mar 24 | Ch. 4 | [Outline](https://github.com/yanatan16/sicp-club/blob/master/ch4/outline.md) | [Solutions](https://github.com/yanatan16/sicp-club/tree/master/ch4) |
 | 5 | Unknown | Ch. 5 | | |
 

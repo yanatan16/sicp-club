@@ -2,6 +2,8 @@
 
 Finally, we reach the climax of the book: writing a Scheme Interpreter. I suggest starting from the metacircular evaluator given on the book's [website](http://mitpress.mit.edu/sicp/code/index.html), which I've renamed to [`mceval-base.scm`](https://github.com/yanatan16/sicp-club/blob/master/ch4/mceval-base.scm).
 
+This chapter contains 4 sections. Read through 4.1, then pick one of 4.2 - 4.4 to read. Then pick one of any of the sections to do some exercise from. Take the code from the site and modify it accordingly. I'd suggest everyone pick one they want to work on and talk about the challenges at our meetup!
+
 ## 4.1 Metacircular Evaluator
 
 This section details each part of the evaluator. The fun of these exercises is extending the evaluator. Starting from the base evaluator (`mceval-base.scm`), pick a few of the mentioned exercises and implement them.
@@ -33,3 +35,7 @@ In the book, it talks about `cond` and `let` as _derived procedures_, that is, t
 #### Custom Exercise: Frames as tables
 
 Instead of using lookup lists, redefine frames as tables of variables so lookup and setting is faster.
+
+## 4.2 - 4.4
+
+These sections create different evalators, a lazy one, a indeterminant programming one, and a logic programming one. I didn't dive deep into here but I suggest it!
